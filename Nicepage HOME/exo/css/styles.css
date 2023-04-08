@@ -1,0 +1,429 @@
+.uno
+{
+    width: 100%;
+    height: 70px;
+}
+.uno1
+{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    text-decoration: solid;
+}
+.un 
+{
+    text-decoration: underline;
+    color: rgb(179, 174, 174);
+}
+.duo
+{
+    width: 100%;
+    height: 500px;
+}
+.haut
+{
+    width: 100%;
+}
+.duo1
+{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    top: -820px;
+    left: 150px;
+}
+.zero
+{
+    position: relative;
+    font-size: 4em;
+    left: 20px;
+    top: 10px;
+    color: rgb(151, 225, 248);
+}
+.p1
+{
+    position:absolute;
+    left: 270px;
+    bottom: 415px;
+    color: white;
+}
+.p2
+{
+    position: absolute;
+    left: 160px;
+    bottom: 230px;
+    color: white;
+    font-size: 1.1em;
+}
+.trio
+{
+    width: 100%;
+    height: 1000px;
+}
+.tri
+{
+    position: absolute;
+    top: 880px;
+    left: 150px;
+    font-size: 4.8em;
+    line-height: 90%;
+}
+.trioo
+{
+    position: absolute;
+    top: 1100px;
+    left: 155px;
+    font-size: 1.2em;
+}
+.moi
+{
+    
+    position: absolute;
+    top: 1220px;
+    left: 155px;
+    height: 60px;
+    width: 180px;
+    border-radius: 90px;
+    color: white;
+    background-color: rgb(113, 196, 221);
+    font-size: 1.2em;
+}
+.quart
+{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(140, 205, 248);
+}
+.qua
+{
+    position: relative;
+    left: 155px;
+    top: 50px;
+    font-size: 3.2em;
+    color: white;
+}
+.qu
+{
+    position: relative;
+    left: 155px;
+    top: 40px;
+    font-size: 1.3em;
+    color: white;
+}
+.A 
+{
+    position: relative;
+    width: 17%;
+    height: 300px;
+    background-color: white;
+    top: 60px;
+    left: 155px;
+    border-radius: 20px;
+}
+.B
+{
+    position: relative;
+    width: 17%;
+    height: 300px;
+    background-color: white;
+    top: -240px;
+    left: 420px;
+    border-radius: 20px;
+}
+.C
+{
+    position: relative;
+    width: 17%;
+    height: 300px;
+    background-color: white;
+    top: -540px;
+    left: 680px;
+    border-radius: 20px;
+}
+.D 
+{
+    position: relative;
+    width: 17%;
+    height: 300px;
+    background-color: white;
+    top: -840px;
+    left: 950px;
+    border-radius: 20px;
+}
+.Ab
+{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    width: 90px;
+
+}
+.Ba 
+{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    width: 90px;
+}
+.Ca
+{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    width: 90px;
+}
+.Da
+{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    width: 90px;
+}
+.mot
+{
+    position: relative;
+    top: 35px;
+    left: 30px;
+    color: rgb(144, 228, 243);
+}
+.crea
+{
+    position: relative;
+    top: 35px;
+    left: 30px;
+    color: rgb(144, 228, 243);
+}
+.pos
+{
+    position: relative;
+    top: 35px;
+    left: 30px;
+    color: rgb(144, 228, 243);
+}
+.del
+{
+    position: relative;
+    top: 35px;
+    left: 30px;
+    color: rgb(144, 228, 243);
+}
+.moti
+{
+    position: relative;
+    top: 35px;
+    left: 30px;
+}
+.creat
+{
+    position: relative;
+    top: 35px;
+    left: 30px;
+}
+.posi
+{
+    position: relative;
+    top: 35px;
+    left: 30px;
+}
+.dele
+{
+    position: relative;
+    top: 35px;
+    left: 30px;
+}
+.quinto
+{
+    width: 100%;
+    height: 550px;
+}
+.but
+{
+    position: relative;
+    height: 150px;
+    width: 280px;
+    font-size: 1.2em;
+    bottom: 150px;
+    left: 220px;
+}
+.rond
+{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    top: 200px;
+    left: 90px;
+}
+.ash
+{
+    position: relative;
+    left: 800px;
+    bottom: 300px;
+    font-size: larger;
+}
+.pash
+{
+    position: relative;
+    left: 800px;
+    bottom: 290px;
+}
+.alpha
+{
+    width: 100%;
+    height: 550px;
+}
+.beta
+{
+    position: relative;
+    left: 720px;
+    width: 480px;
+    height: 480px;
+    top: 35px;
+}
+.bet 
+{
+    position: relative;
+    bottom: 450px;
+    left: 200px;
+    font-size: 3.3em;
+}
+.be 
+{
+    position: relative;
+    bottom: 480px;
+    left: 200px;
+    font-size: large;
+    line-height: 145%;
+}
+.betaa
+{
+    position: relative;
+    bottom: 465px;
+    left: 200px;
+    height: 55px;
+    width: 170px;
+    border-radius: 80px;
+    font-size: large;
+    color: white;
+    background-color: rgb(88, 208, 255);
+
+}
+.betaaa
+
+{
+    position: relative;
+    bottom: 350px;
+    left: 180px;
+    font-size: 3.2em;
+}
+.omeg
+{
+    position: relative;
+    width: 230px;
+    height: 230px;
+    left: 200px;
+    bottom: 330px;
+}
+.omega
+{
+    position: relative;
+    width: 230px;
+    height: 230px;
+    left: 330px;
+    bottom: 330px;
+}
+.ome 
+{
+    position: relative;
+    width: 230px;
+    height: 230px;
+    left: 460px;
+    bottom: 330px;
+}
+.mary
+{
+    position: relative;
+    bottom: 325px;
+    left: 200px;
+    font-size: large;
+    color: rgb(114, 199, 255);
+}
+.ann
+{
+    position: relative;
+    bottom: 365px;
+    left: 570px;
+    font-size: large;
+    color: rgb(114, 199, 255);
+}
+.bob
+{
+    position: relative;
+    bottom: 405px;
+    left: 930px;
+    font-size: large;
+    color: rgb(114, 199, 255);
+}
+.brown
+{
+   position: relative;
+   bottom: 410px;
+   left: 200px;
+}
+.rich
+{
+    position: relative;
+    bottom: 445px;
+    left: 570px;
+}
+.green
+{
+    position: relative;
+    bottom: 480px;
+    left: 930px;  
+}
+.marry
+{
+    position: relative;
+    bottom: 470px;
+    left: 200px;
+    font-style: italic;
+}
+.mond
+{
+    position: relative;
+    bottom: 540px;
+    left: 570px;
+    font-style: italic;
+}
+.field
+{
+    position: relative;
+    bottom: 610px;
+    left: 930px;
+    font-style: italic;
+}
+.fuck
+{
+    display: flex;
+    position: relative;
+    left: 200px;
+    bottom: 610px;
+    height: 30px;
+}
+.fuckk
+{
+    display: flex;
+    position: relative;
+    left: 570px;
+    bottom: 640px;
+    height: 30px;
+}
+.fuckkk
+{
+    display: flex;
+    position: relative;
+    left: 930px;
+    bottom: 670px;
+    height: 30px;
+}
